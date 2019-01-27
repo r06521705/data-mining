@@ -1,0 +1,1 @@
+python income.py  $2 $3 $4
